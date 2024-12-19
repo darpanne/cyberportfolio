@@ -102,7 +102,21 @@ To apply my expertise in network and application security, incident response, sy
     <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
+## Certifications
 
+### Current
+<div>
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ethical_Hacking_Hackathon_2nd_Place-6A0DAD?&style=for-the-badge&logo=Hackathon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PHP_and_MySQL_Training-FFD700?&style=for-the-badge&logo=PHP&logoColor=white" />
+</div>
+
+### Future (Planned)
+<div>
+    <img src="https://img.shields.io/badge/-PenTest%2B_(Planned)-00A1D6?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CISSP_(Planned)-0033A0?&style=for-the-badge&logo=(ISC)%C2%B2&logoColor=white" />
+</div>
 
 ## Projects
 - <a href="https://github.com/darpanneupane/penetration-testing-lab">Penetration Testing Lab</a>
