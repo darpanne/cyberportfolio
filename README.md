@@ -32,8 +32,12 @@ To apply my expertise in network and application security, incident response, sy
 ### SIEM and Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Security_Onion-007A33?&style=for-the-badge&logo=Security-Onion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SGUIL-00FF7F?&style=for-the-badge&logo=SGUIL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Squert-20B2AA?&style=for-the-badge&logo=Squert&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Logstash-00CED1?&style=for-the-badge&logo=Logstash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### Endpoint Security
@@ -48,6 +52,7 @@ To apply my expertise in network and application security, incident response, sy
     <img src="https://img.shields.io/badge/-GPG-0099CC?&style=for-the-badge&logo=GNU-Privacy-Guard&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hashcat-FF0000?&style=for-the-badge&logo=Hashcat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Steghide-556B2F?&style=for-the-badge&logo=Steghide&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cain_&_Abel-8A2BE2?&style=for-the-badge&logo=Cain&logoColor=white" />
 </div>
 
 ### Digital Forensics
@@ -55,6 +60,9 @@ To apply my expertise in network and application security, incident response, sy
     <img src="https://img.shields.io/badge/-WinHex-2E8B57?&style=for-the-badge&logo=WinHex&logoColor=white" />
     <img src="https://img.shields.io/badge/-Felix-8A2BE2?&style=for-the-badge&logo=Felix&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Magnet_Axiom-FF8C00?&style=for-the-badge&logo=Magnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ProDiscover-4169E1?&style=for-the-badge&logo=ProDiscover&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSForensics-6A5ACD?&style=for-the-badge&logo=OSForensics&logoColor=white" />
 </div>
 
 ### Penetration Testing and Vulnerability Scanning
@@ -64,6 +72,21 @@ To apply my expertise in network and application security, incident response, sy
     <img src="https://img.shields.io/badge/-Burp_Suite-FF7F50?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-John_the_Ripper-4B0082?&style=for-the-badge&logo=John-The-Ripper&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-00A99D?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLmap-FF4500?&style=for-the-badge&logo=SQLmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-FF4500?&style=for-the-badge&logo=OWASP-ZAP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wpscan-4682B4?&style=for-the-badge&logo=Wpscan&logoColor=white" />
+</div>
+
+### Wireless Security
+<div>
+    <img src="https://img.shields.io/badge/-Aircrack_ng-20B2AA?&style=for-the-badge&logo=Aircrack-ng&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cowpatty-4682B4?&style=for-the-badge&logo=Cowpatty&logoColor=white" />
+</div>
+
+### Scripting and Automation
+<div>
+    <img src="https://img.shields.io/badge/-Python-FFD343?&style=for-the-badge&logo=Python&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
 </div>
 
 ### Virtualization
@@ -79,22 +102,6 @@ To apply my expertise in network and application security, incident response, sy
     <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
-
-## Certifications
-
-### Current
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ethical_Hacking_Hackathon_2nd_Place-6A0DAD?&style=for-the-badge&logo=Hackathon&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PHP_and_MySQL_Training-FFD700?&style=for-the-badge&logo=PHP&logoColor=white" />
-</div>
-
-### Future (Planned)
-<div>
-    <img src="https://img.shields.io/badge/-PenTest%2B_(Planned)-00A1D6?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CISSP_(Planned)-0033A0?&style=for-the-badge&logo=(ISC)%C2%B2&logoColor=white" />
-</div>
 
 
 ## Projects
