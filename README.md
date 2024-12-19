@@ -11,10 +11,10 @@ To apply my expertise in network and application security, incident response, sy
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking and Penetration Testing                                                  | <a href="https://github.com/darpanne/Ethical-Hacking-Lab/blob/main/README.md">Ethical Hacking Lab</a>|
 | SIEM Implementation, Log Analysis, Threat Detection, and Wireshark                       | <a href="https://github.com/darpanne/Security-Onion">Security Onion and Wireshark</a>|
-| Digital Forensics                                                                        | <a href="https://github.com/darpanne/Security-Onion">Detection Lab</a>|
-| Network and Server Security                                                              | <a href="https://github.com/darpanneupane/network-security-lab">Network Security Lab</a>|
 | Information Security Management, OS and Application Security                             | <a href="https://github.com/darpanneupane/information-security-lab">Information Security Lab</a>|
 | Firewall Management and Network Traffic Monitoring                                       | <a href="https://github.com/darpanneupane/firewall-management-lab">Firewall Management Lab</a>|
+| Digital Forensics                                                                        | <a href="https://github.com/darpanne/Security-Onion">Detection Lab</a>|
+| Network and Server Security                                                              | <a href="https://github.com/darpanneupane/network-security-lab">Network Security Lab</a>|
 | Virtualization                                                                           | <a href="https://github.com/darpanneupane/virtualization-lab">Virtualization Lab</a>|
 
 
