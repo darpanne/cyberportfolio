@@ -9,7 +9,7 @@ To apply my expertise in network and application security, incident response, sy
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Ethical Hacking and Penetration Testing                                                  | <a href="https://github.com/darpanneupane/penetration-testing-lab">Ethical Hacking Lab</a>|
+| Ethical Hacking and Penetration Testing                                                  | <a href="https://github.com/darpanne/Ethical-Hacking-Lab/blob/main/README.md">Ethical Hacking Lab</a>|
 | SIEM Implementation, Log Analysis, Threat Detection, and Wireshark                       | <a href="https://github.com/darpanne/Security-Onion">Security Onion and Wireshark</a>|
 | Digital Forensics                                                                        | <a href="https://github.com/darpanne/Security-Onion">Detection Lab</a>|
 | Network and Server Security                                                              | <a href="https://github.com/darpanneupane/network-security-lab">Network Security Lab</a>|
