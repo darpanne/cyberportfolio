@@ -112,7 +112,9 @@ To apply my expertise in network and application security, incident response, sy
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
     </a>
     <!-- Other Badges -->
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
+    <a href="https://www.credly.com/badges/b62a5e55-620e-479b-82e5-0e435298e9ac" target="_blank">  
+        <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Certificate" />
+    </a>
     <img src="https://img.shields.io/badge/-Ethical_Hacking_Hackathon_2nd_Place-6A0DAD?&style=for-the-badge&logo=Hackathon&logoColor=white" alt="Ethical Hacking Hackathon 2nd Place" />
     <img src="https://img.shields.io/badge/-PHP_and_MySQL_Training-FFD700?&style=for-the-badge&logo=PHP&logoColor=white" alt="PHP and MySQL Training" />
 </div>
