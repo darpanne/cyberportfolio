@@ -1,5 +1,5 @@
 # Hello, I'm Darpan Neupane
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/darpanne/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity professional and recent graduate, passionate about securing IT infrastructures, detecting threats, and ensuring system resilience.
 
