@@ -12,7 +12,7 @@ To apply my expertise in network and application security, incident response, sy
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking and Penetration Testing                                                  | <a href="https://github.com/darpanne/Ethical-Hacking-Lab/blob/main/README.md">Ethical Hacking Lab</a>|
-| Access Control and Information Security                                                  | <a href="https://github.com/darpanneupane/information-security-lab">Information Security Lab</a>|
+| Access Control and Information Security                                                  | <a href="https://github.com/darpanne/Information-Security-Lab/blob/main/README.md">Information Security Lab</a>|
 | SIEM Implementation, Log Analysis, Threat Detection, and Wireshark                       | <a href="https://github.com/darpanne/Security-Onion">Security Onion and Wireshark</a>|
 | OS and Application Security                                                              | <a href="https://github.com/darpanneupane/information-security-lab">Information Security Lab</a>|
 | Firewall Management and Network Traffic Monitoring                                       | <a href="https://github.com/darpanneupane/firewall-management-lab">Firewall Management Lab</a>|
@@ -131,8 +131,8 @@ To apply my expertise in network and application security, incident response, sy
 
 ## Projects
 - <a href="https://github.com/darpanne/Ethical-Hacking-Lab/blob/main/README.md">Ethical Hacking Lab</a>
+- <a href="https://github.com/darpanne/Information-Security-Lab/blob/main/README.md">Information Security Lab</a>
 - <a href="https://github.com/darpanne/Security-Onion">Security Onion and Wireshark</a>
-- <a href="https://github.com/darpanneupane/network-security-lab">Network Security Lab</a>
 - <a href="https://github.com/darpanneupane/information-security-lab">Information Security Lab</a>
 - <a href="https://github.com/darpanneupane/firewall-management-lab">Firewall Management Lab</a>
 - <a href="https://github.com/darpanneupane/virtualization-lab">Virtualization Lab</a>
