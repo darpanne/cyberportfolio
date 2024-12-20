@@ -107,6 +107,7 @@ To apply my expertise in network and application security, incident response, sy
 
 ### Current
 <div>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7613f722-45d2-46fa-9e2c-3a19e9edbecf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ethical_Hacking_Hackathon_2nd_Place-6A0DAD?&style=for-the-badge&logo=Hackathon&logoColor=white" />
