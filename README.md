@@ -12,11 +12,11 @@ To apply my expertise in network and application security, incident response, sy
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking and Penetration Testing                                                  | <a href="https://github.com/darpanne/Ethical-Hacking-Lab">Ethical Hacking Lab</a>|
-| Access Control and Information Security                                                  | <a href="https://github.com/darpanne/Information-Security-Lab/blob/main/README.md">Information Security Lab</a>|
+| Access Control and Information Security                                                  | <a href="https://github.com/darpanne/Information-Security-Lab">Information Security Lab</a>|
 | SIEM Implementation, Log Analysis, Threat Detection, and Wireshark                       | <a href="https://github.com/darpanne/Security-Onion">Security Onion and Wireshark</a>|
-| OS and Application Security                                                              | <a href="https://github.com/darpanne/OS-Application-Security/blob/main/README.md">OS & Application Security</a>|
-| Firewall Management and Network Traffic Monitoring                                       | <a href="https://github.com/darpanneupane/firewall-management-lab">Firewall Management Lab</a>|
-| Digital Forensics                                                                        | <a href="https://github.com/darpanne/Digital-Forensic/blob/main/README.md">Digital Forensic</a>|
+| OS and Application Security                                                              | <a href="https://github.com/darpanne/OS-Application-Security">OS & Application Security</a>|
+| Firewall Management and Network Traffic Monitoring                                       | <a href="hhttps://github.com/darpanne/Firewall-Management">Firewall Management</a>|
+| Digital Forensics                                                                        | <a href="https://github.com/darpanne/Digital-Forensic">Digital Forensic</a>|
 | Network and Server Security                                                              | <a href="https://github.com/darpanneupane/network-security-lab">Network Security Lab</a>|
 | Virtualization                                                                           | <a href="https://github.com/darpanne/Virtualization">Virtualization Lab</a>|
 
@@ -135,6 +135,6 @@ To apply my expertise in network and application security, incident response, sy
 - <a href="https://github.com/darpanne/Security-Onion">Security Onion and Wireshark</a>
 - <a href="https://github.com/darpanne/OS-Application-Security/blob/main/README.md">OS & Application Security</a>
 - <a href="https://github.com/darpanne/Digital-Forensic/blob/main/README.md">Digital Forensic</a>
-- <a href="https://github.com/darpanneupane/firewall-management-lab">Firewall Management Lab</a>
+- <a href="hhttps://github.com/darpanne/Firewall-Management">Firewall Management</a>
 - <a href="https://github.com/darpanne/Virtualization">Virtualization Lab</a>
 
