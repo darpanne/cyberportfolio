@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
-I am a cybersecurity professional and recent graduate, passionate about securing IT infrastructures, detecting threats, and ensuring system resilience.
+I am a cybersecurity professional passionate about securing IT infrastructures, detecting threats, and ensuring system resilience.
 
 ## Objective
 To apply my expertise in network and application security, incident response, system hardening, and technical problem-solving to contribute as a Security Analyst, Junior Penetration Tester, Technical Support Specialist, or any related role in the cybersecurity domain.
