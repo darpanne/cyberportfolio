@@ -18,7 +18,7 @@ To apply my expertise in network and application security, incident response, sy
 | Firewall Management and Network Traffic Monitoring                                       | <a href="https://github.com/darpanneupane/firewall-management-lab">Firewall Management Lab</a>|
 | Digital Forensics                                                                        | <a href="https://github.com/darpanne/Digital-Forensic/blob/main/README.md">Digital Forensic</a>|
 | Network and Server Security                                                              | <a href="https://github.com/darpanneupane/network-security-lab">Network Security Lab</a>|
-| Virtualization                                                                           | <a href="https://github.com/darpanneupane/virtualization-lab">Virtualization Lab</a>|
+| Virtualization                                                                           | <a href="https://github.com/darpanne/Virtualization">Virtualization Lab</a>|
 
 
 ## Tools
@@ -136,5 +136,5 @@ To apply my expertise in network and application security, incident response, sy
 - <a href="https://github.com/darpanne/OS-Application-Security/blob/main/README.md">OS & Application Security</a>
 - <a href="https://github.com/darpanne/Digital-Forensic/blob/main/README.md">Digital Forensic</a>
 - <a href="https://github.com/darpanneupane/firewall-management-lab">Firewall Management Lab</a>
-- <a href="https://github.com/darpanneupane/virtualization-lab">Virtualization Lab</a>
+- <a href="https://github.com/darpanne/Virtualization">Virtualization Lab</a>
 
