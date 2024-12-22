@@ -136,6 +136,7 @@ To apply my expertise in network and application security, incident response, sy
 - <a href="https://github.com/darpanne/Security-Onion">Security Onion and Wireshark</a>
 - <a href="https://github.com/darpanne/OS-Application-Security/blob/main/README.md">OS & Application Security</a>
 - <a href="https://github.com/darpanne/Digital-Forensic/blob/main/README.md">Digital Forensic</a>
+- <a href="https://github.com/darpanne/Web-Security">Web Security</a>
 - <a href="https://github.com/darpanne/Firewall-Management">Firewall Management</a>
 - <a href="https://github.com/darpanne/Virtualization">Virtualization Lab</a>
 
