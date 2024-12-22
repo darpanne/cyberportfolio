@@ -17,6 +17,7 @@ To apply my expertise in network and application security, incident response, sy
 | OS and Application Security                                                              | <a href="https://github.com/darpanne/OS-Application-Security">OS & Application Security</a>|
 | Firewall Management and Network Traffic Monitoring                                       | <a href="https://github.com/darpanne/Firewall-Management">Firewall Management</a>|
 | Digital Forensics                                                                        | <a href="https://github.com/darpanne/Digital-Forensic">Digital Forensic</a>|
+| Web Security                                                                             | <a href="https://github.com/darpanne/Web-Security">Web Security</a>|
 | Network and Server Security                                                              | <a href="https://github.com/darpanneupane/network-security-lab">Network Security Lab</a>|
 | Virtualization                                                                           | <a href="https://github.com/darpanne/Virtualization">Virtualization Lab</a>|
 
