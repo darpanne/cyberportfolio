@@ -18,7 +18,7 @@ To apply my expertise in network and application security, incident response, sy
 | Firewall Management and Network Traffic Monitoring                                       | <a href="https://github.com/darpanne/Firewall-Management">Firewall Management</a>|
 | Digital Forensics                                                                        | <a href="https://github.com/darpanne/Digital-Forensic">Digital Forensic</a>|
 | Web Security                                                                             | <a href="https://github.com/darpanne/Web-Security">Web Security</a>|
-| Server Security                                                                          | <a href="https://github.com/darpanne/Server-security">Server Security</a>|
+| Server Security                                                                          | <a href="https://github.com/darpanne/Securing-Server">Server Security</a>|
 | Virtualization                                                                           | <a href="https://github.com/darpanne/Virtualization">Virtualization Lab</a>|
 
 
@@ -138,6 +138,6 @@ To apply my expertise in network and application security, incident response, sy
 - <a href="https://github.com/darpanne/OS-Application-Security/blob/main/README.md">OS & Application Security</a>
 - <a href="https://github.com/darpanne/Digital-Forensic/blob/main/README.md">Digital Forensic</a>
 - <a href="https://github.com/darpanne/Web-Security">Web Security</a>
-- <a href="https://github.com/darpanne/Server-Security">Server Security</a>
+- <a href="https://github.com/darpanne/Securing-Server">Server Security</a>
 - <a href="https://github.com/darpanne/Virtualization">Virtualization Lab</a>
 
