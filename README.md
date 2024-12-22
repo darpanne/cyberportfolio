@@ -31,7 +31,8 @@ To apply my expertise in network and application security, incident response, sy
     <img src="https://img.shields.io/badge/-Palo_Alto-FF4F4F?&style=for-the-badge&logo=Palo-Alto-Networks&logoColor=white" />
     <img src="https://img.shields.io/badge/-pfSense-0F8EDD?&style=for-the-badge&logo=pfSense&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-2E86C1?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ekahau_Heat_Mapper-FF6F61?&style=for-the-badge&logo=Ekahau&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Angry_IP_Scanner-FF5733?&style=for-the-badge&logo=Angry-IP-Scanner&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Spiderfoot-6C757D?&style=for-the-badge&logo=Spiderfoot&logoColor=white" />
 </div>
 
 ### SIEM and Monitoring
@@ -68,6 +69,7 @@ To apply my expertise in network and application security, incident response, sy
     <img src="https://img.shields.io/badge/-Magnet_Axiom-FF8C00?&style=for-the-badge&logo=Magnet&logoColor=white" />
     <img src="https://img.shields.io/badge/-ProDiscover-4169E1?&style=for-the-badge&logo=ProDiscover&logoColor=white" />
     <img src="https://img.shields.io/badge/-OSForensics-6A5ACD?&style=for-the-badge&logo=OSForensics&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sleuthkit-8A2BE2?&style=for-the-badge&logo=Sleuthkit&logoColor=white" />
 </div>
 
 ### Penetration Testing and Vulnerability Scanning
@@ -75,6 +77,7 @@ To apply my expertise in network and application security, incident response, sy
     <img src="https://img.shields.io/badge/-Metasploit_Framework-800080?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Msfvenom-8A2BE2?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp_Suite-FF7F50?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLmap-FF4500?&style=for-the-badge&logo=SQLmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-John_the_Ripper-4B0082?&style=for-the-badge&logo=John-The-Ripper&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-00A99D?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQLmap-FF4500?&style=for-the-badge&logo=SQLmap&logoColor=white" />
@@ -86,6 +89,7 @@ To apply my expertise in network and application security, incident response, sy
 <div>
     <img src="https://img.shields.io/badge/-Aircrack_ng-20B2AA?&style=for-the-badge&logo=Aircrack-ng&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cowpatty-4682B4?&style=for-the-badge&logo=Cowpatty&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ekahau_Heat_Mapper-FF6F61?&style=for-the-badge&logo=Ekahau&logoColor=white" />
 </div>
 
 ### Scripting and Automation
